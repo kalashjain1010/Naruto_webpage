@@ -13,5 +13,5 @@ You can find all types characters on https://www.giantbomb.com/naruto-uzumaki/30
 3. about.html - Contains a little information about me.
 
 
-#page link
+# Page link
 https://kalashjain1010.github.io/Naruto_webpage/
