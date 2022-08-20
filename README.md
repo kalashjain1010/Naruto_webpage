@@ -11,3 +11,7 @@ You can find all types characters on https://www.giantbomb.com/naruto-uzumaki/30
 1. index.html - Contains the content of the main/home page.
 2. index.css -  Contains the styling given to the  home page.
 3. about.html - Contains a little information about me.
+
+
+#page link
+https://kalashjain1010.github.io/Naruto_webpage/
